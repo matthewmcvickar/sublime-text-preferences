@@ -1,0 +1,33 @@
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".git",
+		".sass-cache",
+		".codekit-cache",
+		"tmp",
+		"node_modules",
+		"bower_components",
+		"theme-shortcut",
+		"public/css",
+		"build",
+		"src/css/bootstrap",
+		"*.svg",
+		"*.map",
+		"wp-includes",
+		"wp-admin",
+		"wp-content/plugins"
+	],
+	"follow_symlinks": false,
+	"font_face": "Inconsolata",
+	"font_size": 14.0,
+	"highlight_line": true,
+	"open_files_in_new_window": false,
+	"show_panel_on_build": false,
+	"tab_completion": false,
+	"tab_size": 2,
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

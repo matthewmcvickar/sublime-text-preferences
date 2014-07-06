@@ -1,0 +1,7 @@
+[
+{ "keys": ["ctrl+w"], "command": "toggle_setting", "args" : { "setting" : "word_wrap" } },
+{ "keys": ["ctrl+r"], "command": "reindent" },
+{ "keys": ["ctrl+a"], "command": "normalize_unicode_punctuation" },
+{ "keys": ["ctrl+c"], "command": "encode_html_entities" },
+{ "keys": ["ctrl+m"], "command": "markdown_preview", "args" : { "target" : "browser" } }
+]

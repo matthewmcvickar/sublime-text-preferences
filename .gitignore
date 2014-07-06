@@ -1,0 +1,15 @@
+# OS-generated files
+.DS_Store
+
+# Non-sync'd Sublime Text preferences files
+Default (Linux).sublime-keymap
+Default (Windows).sublime-keymap
+
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.system-ca-bundle
+Package Control.cache/
+Package Control.ca-certs/
+
+Side Bar.sublime-settings
