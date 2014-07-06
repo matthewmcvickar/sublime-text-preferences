@@ -17,6 +17,7 @@ Check out this repository and symlink it to Sublime Text's Application Support f
 
     ```sh
     $ cd /Users/matthewmcvickar/Library/Application\ Support/Sublime\ Text\ 2/Packages
+    $ rm -r User
     $ ln -s ~/Sites/matthewmcvickar/sublime-text-preferences/ User
     ```
 
