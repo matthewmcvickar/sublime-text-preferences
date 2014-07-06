@@ -20,7 +20,7 @@
 		"wp-content/plugins"
 	],
 	"follow_symlinks": false,
-	"font_face": "Inconsolata",
+	"font_face": "Inconsolas",
 	"font_size": 14.0,
 	"highlight_line": true,
 	"open_files_in_new_window": false,
