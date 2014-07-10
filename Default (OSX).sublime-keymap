@@ -1,7 +1,10 @@
 [
-{ "keys": ["ctrl+w"], "command": "toggle_setting", "args" : { "setting" : "word_wrap" } },
+{ "keys": ["ctrl+w"], "command": "toggle_setting", "args": { "setting": "word_wrap" } },
 { "keys": ["ctrl+r"], "command": "reindent" },
 { "keys": ["ctrl+a"], "command": "normalize_unicode_punctuation" },
 { "keys": ["ctrl+c"], "command": "encode_html_entities" },
-{ "keys": ["ctrl+m"], "command": "markdown_preview", "args" : { "target" : "browser" } }
+{ "keys": ["ctrl+m"], "command": "markdown_preview", "args": { "target" : "browser" } },
+{ "keys": ["ctrl+q"], "command": "wrap_lines", "args": { "width" : 80 } },
+{ "keys": ["alt+up"], "command": "move", "args": { "by": "stops", "empty_line": true, "forward": false} },
+{ "keys": ["alt+down"], "command": "move", "args": { "by": "stops", "empty_line": true, "forward": true} }
 ]
