@@ -2,6 +2,8 @@
 
 Check out this repository and symlink it to Sublime Text's Application Support folder to get your settings quick and get to work.
 
+**NOTE:** This can be run on its own, but is automatically included in my **[Setup script](https://github.com/matthewmcvickar/setup)**.
+
 ## Instructions
 
 1. Close Sublime Text.
