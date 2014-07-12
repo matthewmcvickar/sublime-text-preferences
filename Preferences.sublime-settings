@@ -1,7 +1,7 @@
 {
 	"00": "											Remember to commit and push after making changes here!											",
 	"01": " 																																															  ",
-	"02": "										cd ~/Sites/matthewmcvickar/sublime-text-preferences; g ca											",
+	"02": "														mm && cd sublime-text-preferences && g ca								        			",
 	"03": " 																																															  ",
 	"auto_complete": false,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
@@ -13,15 +13,12 @@
 		"tmp",
 		"node_modules",
 		"bower_components",
-		"theme-shortcut",
 		"public/css",
 		"build",
-		"src/css/bootstrap",
 		"*.svg",
 		"*.map",
-		"wp-includes",
-		"wp-admin",
-		"wp-content/plugins"
+		"src/css/bootstrap",
+		"wordpress"
 	],
 	"follow_symlinks": false,
 	"font_face": "Menlo",
