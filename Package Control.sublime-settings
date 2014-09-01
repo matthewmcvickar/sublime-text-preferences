@@ -1,9 +1,11 @@
 {
 	"installed_packages":
 	[
+		"Alignment",
 		"ApacheConf.tmLanguage",
 		"CoffeeScript",
 		"Dotfiles Syntax Highlighting",
+		"EditorConfig",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
