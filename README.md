@@ -18,11 +18,11 @@ Check out this repository and symlink it to Sublime Text's Application Support f
 1. Symlink:
 
     ```sh
-    $ cd /Users/matthewmcvickar/Library/Application\ Support/Sublime\ Text\ 2/Packages
+    $ cd /Users/matthewmcvickar/Library/Application\ Support/Sublime\ Text\ 3/Packages
     $ rm -r User
     $ ln -s ~/Sites/matthewmcvickar/sublime-text-preferences/ User
     ```
 
-1. Fix SASS highlighting. Go into `Application Support/Sublime Text 2/Packages/Rails/Ruby Haml.tmLanguage` and remove line 8: `<string>sass</string>`.
+1. Fix SASS highlighting. Go into `Application Support/Sublime Text 3/Packages/Rails/Ruby Haml.tmLanguage` and remove line 8: `<string>sass</string>`.
 
 1. Start up Sublime Text.
