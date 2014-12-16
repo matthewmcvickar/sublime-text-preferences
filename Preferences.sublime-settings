@@ -30,9 +30,8 @@
 		"public",
 		"deploy",
 		"bin",
-		"src/components",
 		"_archive",
-		"theme/classes"
+		"stylesheets/note"
 	],
 	"follow_symlinks": false,
 	"font_face": "Menlo",
@@ -50,7 +49,6 @@
 	[
 		79
 	],
-	"tab_completion": false,
 	"tab_size": 2,
 	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
