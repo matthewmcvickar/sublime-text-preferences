@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Alignment",
@@ -10,6 +13,7 @@
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
+		"Siteleaf Liquid Syntax",
 		"Theme - Soda"
 	]
 }
