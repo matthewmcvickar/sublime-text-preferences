@@ -4,7 +4,7 @@
 	"02": "                           mm && cd sublime-text-preferences && g ca                             ",
 	"03": "                                                                                                 ",
 	"auto_complete": false,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
 	"file_exclude_patterns":
 	[
 		"config.codekit",
