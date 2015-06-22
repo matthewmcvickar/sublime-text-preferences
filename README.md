@@ -23,6 +23,10 @@ Check out this repository and symlink it to Sublime Text's Application Support f
     $ ln -s ~/Sites/matthewmcvickar/sublime-text-preferences/ User
     ```
 
-1. Fix SASS highlighting. Go into `Application Support/Sublime Text 3/Packages/Rails/Ruby Haml.tmLanguage` and remove line 8: `<string>sass</string>`.
+1. Fix SASS highlighting by removing SASS from HAML's syntax highlighting rules:
+
+    ```sh
+    sed -i '' '/<string>sass<\/string>/d' ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Rails/Ruby\ Haml.tmLanguage
+    ```
 
 1. Start up Sublime Text.
