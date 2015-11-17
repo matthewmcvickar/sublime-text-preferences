@@ -5,34 +5,32 @@
 	"03": "                                                                                                 ",
 	"auto_complete": false,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
-	"file_exclude_patterns":
-	[
-		"config.codekit",
-		"codekit-config.json",
-		"*.svg",
-		"*.map",
-		".DS_Store",
-		"min.js",
-		"screen.css",
-		"style*.css",
-		"app.css",
-		"admin.css",
-		"zendesk.css",
-		"font-awesome*.css",
-		"*.eot",
-		"*.otf",
-		"*.ttf",
-		"*.woff"
-	],
-	"folder_exclude_patterns":
-	[
+	"file_exclude_patterns": [
+    "config.codekit",
+    "codekit-config.json",
+    "*.svg",
+    "*.map",
+    ".DS_Store",
+    "min.js",
+    "screen.css",
+    "style*.css",
+    "app.css",
+    "admin.css",
+    "zendesk.css",
+    "font-awesome*.css",
+    "*.eot",
+    "*.otf",
+    "*.ttf",
+    "*.woff"
+  ],
+  "folder_exclude_patterns": [
     "*cache*",
     ".bundle",
     ".git",
     ".grunt",
     ".tmp",
     "tmp",
-		"log",
+    "log",
     "node_modules",
     "bower_components",
     "vendor",
@@ -44,30 +42,28 @@
     "build",
     "deploy",
     ".deploy",
-		"_archive",
-		"_site",
-		"_posts"
-	],
-	"follow_symlinks": false,
-	"font_face": "Input Mono Compressed",
-	"font_size": 14.0,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"indent_to_bracket": false,
-	"line_numbers": true,
-	"open_files_in_new_window": false,
-	"rulers":
-	[
-		80,
-		140
-	],
-	"tab_size": 2,
-	"theme": "Soda Dark 3.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+    "_archive",
+    "_site",
+    "_posts"
+  ],
+  "follow_symlinks": false,
+  "font_face": "Input Mono Compressed",
+  "font_size": 14.0,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages": [
+    "Vintage"
+  ],
+  "indent_to_bracket": false,
+  "line_numbers": true,
+  "open_files_in_new_window": false,
+  "rulers": [
+    80,
+    140
+  ],
+  "tab_size": 2,
+  "theme": "Soda Dark 3.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "word_wrap": false
 }
