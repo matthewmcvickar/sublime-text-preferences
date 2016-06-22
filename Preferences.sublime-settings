@@ -8,17 +8,11 @@
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
-		"config.codekit",
 		"codekit-config.json",
 		"*.svg",
 		"*.map",
 		".DS_Store",
 		"min.js",
-		"screen.css",
-		"style*.css",
-		"app.css",
-		"admin.css",
-		"zendesk.css",
 		"font-awesome*.css",
 		"*.eot",
 		"*.otf",
@@ -38,7 +32,8 @@
 		"wp-settings.php",
 		"wp-signup.php",
 		"wp-trackback.php",
-		"xmlrpc.php"
+		"xmlrpc.php",
+		"npm-debug.log"
 	],
 	"folder_exclude_patterns":
 	[
@@ -49,11 +44,11 @@
 		".tmp",
 		"tmp",
 		"log",
+		"dist",
 		"node_modules",
 		"bower_components",
 		"vendor",
 		"bin",
-		"wordpress",
 		"wp-*",
 		"bootstrap",
 		"public",
@@ -62,7 +57,8 @@
 		".deploy",
 		"_archive",
 		"_site",
-		"_posts"
+		"_posts",
+		".vagrant"
 	],
 	"follow_symlinks": false,
 	"font_face": "Input Mono Compressed",
