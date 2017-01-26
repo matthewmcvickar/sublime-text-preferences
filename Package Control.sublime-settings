@@ -5,11 +5,17 @@
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
 		"Alignment",
 		"ApacheConf.tmLanguage",
+		"Babel",
 		"Color Highlighter",
 		"Dotfiles Syntax Highlighting",
 		"EditorConfig",
+		"Emmet",
+		"GitGutter",
+		"Handlebars",
+		"JavaScriptNext - ES6 Syntax",
 		"Markdown Extended",
 		"Monokai Extended",
 		"Origami",
@@ -17,7 +23,12 @@
 		"Sass",
 		"SideBarEnhancements",
 		"Siteleaf Liquid Syntax",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
 		"Syntax Highlighting for PostCSS",
+		"Theme - Cobalt2",
 		"Theme - Soda"
 	]
 }
