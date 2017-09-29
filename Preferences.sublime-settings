@@ -60,11 +60,16 @@
 		"wp-includes",
 		"bootstrap",
 		"dist",
-		"_dist"
+		"_dist",
+		"craft/app",
+		"craft/storage",
+		"craft/plugins",
+		"assets/js",
+		"assets/css"
 	],
 	"follow_symlinks": false,
-	"font_face": "Source Code Pro",
-	"font_size": 13.0,
+	"font_face": "Inconsolata",
+	"font_size": 15.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
